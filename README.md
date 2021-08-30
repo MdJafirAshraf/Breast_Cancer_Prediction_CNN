@@ -15,7 +15,7 @@ if you use jupyter notebook run the following command in anaconda prompt termina
 <br>
 <br>
 
-##Getting Started
+## Getting Started
 
 We create model for breast cancer prediction model using convolutional neural network. It is type of deep learning networks. It is used for classification, segmentation and image processing problems. In this neural network, extract the features from input layer and perform mathematical convolutional operation. 
 <br><br>
